@@ -25,7 +25,7 @@
       "dependencies": {}
     },
     "com.alephvault.unity.deeplinks": {
-      "version": "file:/home/luismasuelli/Projects/Unity/unity-deeplinks",
+      "version": "file:../../unity-deeplinks",
       "depth": 0,
       "source": "local",
       "dependencies": {}
@@ -68,7 +68,7 @@
       }
     },
     "com.alephvault.unity.evmgames.deeplinks": {
-      "version": "file:/home/luismasuelli/Projects/Unity/unity-evmgames-deeplinks",
+      "version": "file:../../unity-evmgames-deeplinks",
       "depth": 0,
       "source": "local",
       "dependencies": {
